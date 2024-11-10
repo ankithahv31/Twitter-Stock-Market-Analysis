@@ -9,3 +9,13 @@ This project provides a comprehensive analysis of Twitter's stock market perform
 Analyze historical stock trends and milestones.
 Study the impact of Twitter's user growth, engagement, and financial performance.
 
+## Methodology
+**Data Collection:** Sourced from Kaggle, the dataset includes stock prices, trading volume, and relevant events.
+
+**Data Analysis:** Exploratory visualizations like line plots, bar plots, scatter plots, histograms, and boxplots are used to investigate stock trends.
+
+**Modeling:** A linear regression model assesses the relationship between time and Twitter's adjusted closing prices.
+
+## Screenshots
+
+
