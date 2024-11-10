@@ -17,7 +17,6 @@ Study the impact of Twitter's user growth, engagement, and financial performance
 **Modeling:** A linear regression model assesses the relationship between time and Twitter's adjusted closing prices.
 
 ## Screenshots
-**Here are fes snapshots of the project.for code reference
 
 ![Screenshot 2024-09-26 223755](https://github.com/user-attachments/assets/cb4d9df8-85a9-4389-ad6b-4eefc104d8cd)
 
